@@ -19,7 +19,7 @@
 
 - I'm a 22 years old developer.
 - I have a passion for embedded systems, Flutter development, and IoT.
-- Currently researching IoT platforms and related technologies.
+- Currently researching & developing IoT device.
 - Mastering the Copy & Paste technique.
 
 ## 📈 **Github Stats:**
