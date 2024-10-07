@@ -1,14 +1,13 @@
-# <p align="center">️ **Hello!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Duc Sang** </p>
+# <p align="center">️ **Hello!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm HIEU NGO** </p>
 
 ---
 
 <p align="center">
-<a href="https://github.com/mahou-anisphia/mahou-anisphia/blob/main/LICENSE">
+<a href="https://github.com/hieungo0503/hieungo0503/blob/main/LICENSE">
 <img alt="Licence" src="https://img.shields.io/badge/license-BY--NC-brightgreen?logo=BY-NC"/>
 </a>
-</a>
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=mahou-anisphia&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/mahou-anisphia/mahou-anisphia?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=hieungo0503&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/hieungo0503/hieungo0503?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
 </br>
@@ -18,10 +17,10 @@
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm a 20 years old developer.
-- I have a passion for cloud computing.
-- Currently researching about platform for cellular IoT devices.
-- Mastering the Copy & Paste technique
+- I'm a 22 years old developer.
+- I have a passion for embedded systems, Flutter development, and IoT.
+- Currently researching IoT platforms and related technologies.
+- Mastering the Copy & Paste technique.
 
 ## 📈 **Github Stats:**
 
@@ -34,20 +33,14 @@
 
 ###
 
-
 </br>
 
 ## 🛠️ **Languages & Tools:**
 
-![AWS](https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-008080?style=for-the-badge)
 
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -55,19 +48,14 @@
 
 ## 🌐 **Connect with me:** ️
 
-[<img src="https://img.shields.io/badge/LinkedIn-duc--sang-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin] </br>
-[<img src="https://img.shields.io/badge/Gmail-ducsang2004@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail] </br>
-[<img src="https://img.shields.io/badge/Github-mahou--anisphia-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github] </br>
-<!-- [<img src="https://img.shields.io/badge/Stackoverflow-mahou--anisphia-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow] </br>
-[<img src="https://img.shields.io/badge/Twitter-@mahou_anisphia-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter] -->
- </br>
+[<img src="https://img.shields.io/badge/LinkedIn-hieu--ngo-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin] </br>
+[<img src="https://img.shields.io/badge/Gmail-hieungo0503@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail] </br>
+[<img src="https://img.shields.io/badge/Github-hieungo0503-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github] </br>
 
 </br>
 
 <!-- Links of Definitions -->
 
-[linkedin]: [https://www.linkedin.com/in/duc-sang](https://www.linkedin.com/in/truong-duc-sang-27a566259/)
-[gmail]: mailto:ducsang2004@gmail.com
-<!-- [stackoverflow]: https://stackoverflow.com/users/your-profile -->
-[github]: https://github.com/mahou-anisphia
-<!-- [twitter]: https://twitter.com/mahou_anisphia -->
+[linkedin]: https://www.linkedin.com/in/hieu-ngo-6a1a82266/
+[gmail]: mailto:hieungo0503@gmail.com
+[github]: https://github.com/hieungo0503
