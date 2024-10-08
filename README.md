@@ -37,7 +37,7 @@
 
 ## 🛠️ **Languages & Tools:**
 
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![C++](https://img.shields.io/badge/c/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Assembly](https://img.shields.io/badge/assembly-008080?style=for-the-badge)
