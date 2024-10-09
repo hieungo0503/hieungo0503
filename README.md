@@ -12,7 +12,7 @@
 
 </br>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI2YmRpbmkwbjRqMzU1ZnRmd2IyeHB1bjRzdTVmeTRyMmhvN2ZudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/_jQj-hdCjXEAAAAd/electroboom-electric-shock.gif">
 </br>
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
