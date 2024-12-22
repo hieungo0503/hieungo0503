@@ -48,9 +48,10 @@
 
 ## 🌐 **Connect with me:** ️
 
-[<img src="https://img.shields.io/badge/LinkedIn-hieu--ngo-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin] </br>
-[<img src="https://img.shields.io/badge/Gmail-hieungo0503@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail] </br>
+[<img src="https://img.shields.io/badge/LinkedIn-hieu--ngo-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&color=0077b5"/>][linkedin] </br>
+[<img src="https://img.shields.io/badge/Gmail-hieungo0503@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=d14836&color=d14836"/>][gmail] </br>
 [<img src="https://img.shields.io/badge/Github-hieungo0503-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github] </br>
+[<img src="https://img.shields.io/badge/Web%20Profile-hieungo0503.github.io-informational?style=for-the-badge&labelColor=black&logo=googlechrome&logoColor=white&color=blue"/>][webProfile] </br>
 
 </br>
 
@@ -60,3 +61,4 @@
 [gmail]: mailto:hieungo0503@gmail.com
 [github]: https://github.com/hieungo0503
 [webProfile]: https://hieungo0503.github.io/
+
